@@ -9,5 +9,5 @@
             <?php
 echo "<h1>welcome to my first php site</h1>";
 echo "<hr>";
-echo"<p> dfhjgkgjsgfkjsbdfg.</p>";
+echo"<p> This is my new php site.</p>";
 ?>
